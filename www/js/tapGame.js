@@ -8,8 +8,8 @@
 
 /******************************************************/
     // APIキーの設定
-    var APPLICATION_KEY ="YOUR_NCMB_APPLICATION_KEY";
-    var CLIENT_KEY ="YOUR_NCMB_CLIENT_KEY";
+    var APPLICATION_KEY ="37960063f88a9fdb6431301c39a7fc72ff047d121eb7941d300f5142ecd1a25e";
+    var CLIENT_KEY ="dad1cc89f94a3e0d0a47199c537b6b445396fafe43d1224f461c67bcbec10dd9";
 /******************************************************/
 
 // mBaaSの初期化
